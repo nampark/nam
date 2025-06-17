@@ -29,3 +29,13 @@
 <img width="988" alt="Image" src="https://github.com/user-attachments/assets/eae0ba23-f9b1-47e0-a878-97ced72870ce" />
 
 <img width="994" alt="Image" src="https://github.com/user-attachments/assets/98b007c8-ffef-440d-b0f9-68b1f6298c06" />
+
+# 참고문헌
+
+[1] 김찬미, 지방자치단체 주차관리의 효율성 제고 방안에 관한 연구, 한양대학교, 2023 ​
+https://www-riss-kr.libproxy.konyang.ac.kr/link?id=T16665578​
+[2] 이창, 주거지 주차공간의 효율적 이용방안, 서울연구원, 2013 ​
+https://www-dbpia-co-kr.libproxy.konyang.ac.kr/journal/articleDetail nodeId=NODE02112857​
+[3] 이성희, 토지이용특성에 따른 실시간 주차수요예측 모델에 관한 연구, 대학교통학회, 2023​
+https://www-dbpia-co-kr.libproxy.konyang.ac.kr/journal/articleDetail?nodeId=NODE11362653​
+[4]이성희 & 김주영, 토지이용특성에 따른 실시간 주차수요 예측 모델에 관한 연구, 대한교통학회, 2023 ​
